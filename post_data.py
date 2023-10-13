@@ -41,7 +41,7 @@ post_data = [
 for post in post_data:
     slug = post['title'].strip().lower().replace(' ', '-')
     post.update({'slug': slug})
-
+    print(post)
 # Your code ends here
 
-print(post_data[4])
+
