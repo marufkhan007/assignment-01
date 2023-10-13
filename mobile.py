@@ -8,7 +8,7 @@ mobile_data = {
         {'name': 'Techno 5', 'price': '110 USD', 'made': 'Uk'},
         {'name': 'Huawei 5', 'price': '350 USD', 'made': 'Malaysia'},
     ],
-    'exchange_rate': 103.25
+    'exchange_rate': 107.25
 }
 
 #  Your Code Starts from here
